@@ -1,0 +1,13 @@
+{
+  "name": "Angular-Deezer",
+  "version": "0.0.0",
+  "homepage": "https://github.com/thibautha/Angular-Deezer",
+  "authors": [
+    "thibautha <thibaut.haenlin@hetic.net>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "angular": "~1.4.1",
+    "normalize-css": "~3.0.3"
+  }
+}
